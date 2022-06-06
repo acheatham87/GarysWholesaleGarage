@@ -1,0 +1,16 @@
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\bin\Debug\net5.0\GarysWholesaleGarage.exe
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\bin\Debug\net5.0\GarysWholesaleGarage.deps.json
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\bin\Debug\net5.0\GarysWholesaleGarage.runtimeconfig.json
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\bin\Debug\net5.0\GarysWholesaleGarage.runtimeconfig.dev.json
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\bin\Debug\net5.0\GarysWholesaleGarage.dll
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\bin\Debug\net5.0\ref\GarysWholesaleGarage.dll
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\bin\Debug\net5.0\GarysWholesaleGarage.pdb
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\obj\Debug\net5.0\GarysWholesaleGarage.csproj.AssemblyReference.cache
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\obj\Debug\net5.0\GarysWholesaleGarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\obj\Debug\net5.0\GarysWholesaleGarage.AssemblyInfoInputs.cache
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\obj\Debug\net5.0\GarysWholesaleGarage.AssemblyInfo.cs
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\obj\Debug\net5.0\GarysWholesaleGarage.csproj.CoreCompileInputs.cache
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\obj\Debug\net5.0\GarysWholesaleGarage.dll
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\obj\Debug\net5.0\ref\GarysWholesaleGarage.dll
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\obj\Debug\net5.0\GarysWholesaleGarage.pdb
+C:\Users\achea\workspace\csharp\GarysWholesaleGarage\obj\Debug\net5.0\GarysWholesaleGarage.genruntimeconfig.cache
